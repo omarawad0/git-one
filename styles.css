@@ -1,4 +1,6 @@
 body {
-    margin: auto;
     background-position: 0fr;
+    background-color: red;
+    margin: auto;
+    padding: auto;
 }
